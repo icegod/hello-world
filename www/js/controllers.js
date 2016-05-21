@@ -8,7 +8,7 @@ angular.module('starter.controllers', [])
   // To listen for when this page is active (for example, to refresh data),
   // listen for the $ionicView.enter event:
   //Your branch is up-to-date with 'origin/fix_bug1'.
-
+  //add OK
   //$scope.$on('$ionicView.enter', function(e) {
   //});
 
