@@ -7,7 +7,8 @@ angular.module('starter.controllers', [])
   // when they are recreated or on app start, instead of every page change.
   // To listen for when this page is active (for example, to refresh data),
   // listen for the $ionicView.enter event:
-  //
+  //Your branch is up-to-date with 'origin/fix_bug1'.
+
   //$scope.$on('$ionicView.enter', function(e) {
   //});
 
@@ -73,7 +74,7 @@ angular.module('starter.controllers', [])
         { id: 0 },
     { id: 1 },
       { id: 0 },
-    { id: 1 },
+    { id: 999999999 },
 
     { id: 49 },
   ];
