@@ -64,17 +64,7 @@ angular.module('starter.controllers', [])
       { id: 0 },
     { id: 1 },
         { id: 0 },
-    { id: 1 },
-      { id: 0 },
-    { id: 1 },
-        { id: 0 },
-    { id: 1 },
-      { id: 0 },
-    { id: 1 },
-        { id: 0 },
-    { id: 1 },
-      { id: 0 },
-    { id: 999999999 },
+
 
     { id: 49 },
   ];
